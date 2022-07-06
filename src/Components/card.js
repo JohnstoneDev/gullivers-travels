@@ -1,6 +1,5 @@
 import { tours } from "./tours";
 import { useState } from "react";
-// import { useEffect } from "react";
 
 const Card = () =>{
         const [trips,setTrips] = useState(tours);

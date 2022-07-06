@@ -40,7 +40,7 @@ export const tours  = [
         id:5,
         price:"$500",
         location:"Nairobi",
-        img:"http://www.destination360.com/africa/kenya/images/s/kenya.jpg",
+        img: "http://www.destination360.com/africa/kenya/images/s/kenya.jpg",
         days:"4",
         details:"Nairobi National Park is a national park in Kenya that was established in 1946 about 7 km south of Nairobi. It is fenced on three sides, whereas the open southern boundary allows migrating wildlife to move between the park and the adjacent Kitengela plains. Herbivores gather in the park during the dry season. Nairobi National Park is negatively affected by increasing human and livestock populations, changing land use and poaching of wildlife. Despite its proximity to the city and its relative small size, it boasts a large and varied wildlife population, and is one of Kenya's most successful rhinoceros sanctuaries."
     }
